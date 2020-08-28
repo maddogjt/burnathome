@@ -1,48 +1,26 @@
-## Burn at Home!
+<!-- ## Burn at Home! -->
+We may not be on the playa, but the man can't still burn.  Here's how to assemble your burn @ home man!
 
-Even though we can't be on playa this year, it doesn't mean that the man can burn.  Here is how to assemble your mini man!
+![Starting Sheet](images/sheet1.jpg)
+
+![Final](images/final1.jpg)
 
 ### Step 1: Break apart pieces
-### Step 2: Attach ribs
-### Step 3: Attach locking rib
-### Step 4: Attach head
-### Step 5: Add leg supports
+Gently twist each piece until it pops out, starting with the smaller pieces.
 
+If you're having difficulty removing some pieces, double check they are cut all the way through.  If not, it may be possible to use a blade to finish the cuts from the back side.
 
-## Welcome to GitHub Pages
+### Step 2: Attach ribs (1, 2, and 3)
+Start by attaching the ribs marked 1, 2, and 3 to corresponding spots of one of the side arches.  
 
-You can use the [editor on GitHub](https://github.com/maddogjt/burnathome/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+With all three ribs attached, attach the opposite side arch.  If you feel like you have to force it into place, check to make sure all of the cutouts are properly lined up.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Step 3: Attach locking rib (4)
+From the front, attach rib 4 to it's marked position.
 
-### Markdown
+### Step 4: Attach head (5)
+Insert the head into the top slot and push down until it goes through all of the ribs, locking them in place.  It may take a little pressing for it to go all of the way down.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Step 5: Add leg supports (6)
+Finally, attach the leg supports to the body.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maddogjt/burnathome/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
