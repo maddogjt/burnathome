@@ -1,3 +1,14 @@
+## Burn at Home!
+
+Even though we can't be on playa this year, it doesn't mean that the man can burn.  Here is how to assemble your mini man!
+
+### Step 1: Break apart pieces
+### Step 2: Attach ribs
+### Step 3: Attach locking rib
+### Step 4: Attach head
+### Step 5: Add leg supports
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/maddogjt/burnathome/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
